@@ -4,7 +4,6 @@
   https://twitter.com/yegetaneh12
 */
 
-
 #include <stdio.h>
 
 #define MAX_NAME 50 // define a constant to hold the maximum length of names
